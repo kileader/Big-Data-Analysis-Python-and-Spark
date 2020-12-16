@@ -1,0 +1,159 @@
+ProductKey,ProductSubcategoryKey,ProductName,StandardCost,Color,ListPrice,Size,DealerPrice,ModelName
+310,2,"Road-150 Red, 62",2171.2942,Red,3578.27,62,2146.962,Road-150
+600,1,"Mountain-500 Black, 52",294.5797,Black,539.99,52,323.994,Mountain-500
+477,28,Water Bottle - 30 oz.,1.8663,NA,4.99,,2.994,Water Bottle
+487,32,Hydration Pack - 70 oz.,20.5663,Silver,54.99,70,32.994,Hydration Pack
+530,37,Touring Tire Tube,1.8663,NA,4.99,,2.994,Touring Tire Tube
+480,37,Patch Kit/8 Patches,0.8565,NA,2.29,,1.374,Patch kit
+484,29,Bike Wash - Dissolver,2.9733,NA,7.95,,4.77,Bike Wash
+540,37,HL Road Tire,12.1924,NA,32.6,,19.56,HL Road Tire
+334,2,"Road-650 Black, 60",413.1463,Black,699.0982,60,419.4589,Road-650
+348,1,"Mountain-100 Black, 38",1898.0944,Black,3374.99,38,2024.994,Mountain-100
+312,2,"Road-150 Red, 48",2171.2942,Red,3578.27,48,2146.962,Road-150
+313,2,"Road-150 Red, 52",2171.2942,Red,3578.27,52,2146.962,Road-150
+311,2,"Road-150 Red, 44",2171.2942,Red,3578.27,44,2146.962,Road-150
+350,1,"Mountain-100 Black, 44",1898.0944,Black,3374.99,44,2024.994,Mountain-100
+578,3,"Touring-2000 Blue, 50",755.1508,Blue,1214.85,50,728.91,Touring-2000
+479,28,Road Bottle Cage,3.3623,NA,8.99,,5.394,Road Bottle Cage
+560,3,"Touring-2000 Blue, 60",755.1508,Blue,1214.85,60,728.91,Touring-2000
+225,19,AWC Logo Cap,6.9223,Multi,8.99,,5.394,Cycling Cap
+467,20,"Half-Finger Gloves, L",9.1593,Black,24.49,L,14.694,Half-Finger Gloves
+214,31,"Sport-100 Helmet, Red",13.0863,Red,34.99,,20.994,Sport-100
+485,30,Fender Set - Mountain,8.2205,NA,21.98,,13.188,Fender Set - Mountain
+478,28,Mountain Bottle Cage,3.7363,NA,9.99,,5.994,Mountain Bottle Cage
+535,37,LL Mountain Tire,9.3463,NA,24.99,,14.994,LL Mountain Tire
+528,37,Mountain Tire Tube,1.8663,NA,4.99,,2.994,Mountain Tire Tube
+537,37,HL Mountain Tire,13.09,NA,35,,21,HL Mountain Tire
+529,37,Road Tire Tube,1.4923,NA,3.99,,2.394,Road Tire Tube
+539,37,ML Road Tire,9.3463,NA,24.99,,14.994,ML Road Tire
+482,23,"Racing Socks, L",3.3623,White,8.99,L,5.394,Racing Socks
+581,2,"Road-350-W Yellow, 42",1082.51,Yellow,1700.99,42,1020.594,Road-350-W
+234,21,"Long-Sleeve Logo Jersey, L",38.4923,Multi,49.99,L,29.994,Long-Sleeve Logo Jersey
+237,21,"Long-Sleeve Logo Jersey, XL",38.4923,Multi,49.99,XL,29.994,Long-Sleeve Logo Jersey
+465,20,"Half-Finger Gloves, M",9.1593,Black,24.49,M,14.694,Half-Finger Gloves
+536,37,ML Mountain Tire,11.2163,NA,29.99,,17.994,ML Mountain Tire
+474,22,"Women's Mountain Shorts, S",26.1763,Black,69.99,S,41.994,Women's Mountain Shorts
+314,2,"Road-150 Red, 56",2171.2942,Red,3578.27,56,2146.962,Road-150
+582,2,"Road-350-W Yellow, 44",1082.51,Yellow,1700.99,44,1020.594,Road-350-W
+574,3,"Touring-1000 Blue, 50",1481.9379,Blue,2384.07,50,1430.442,Touring-1000
+538,37,LL Road Tire,8.0373,NA,21.49,,12.894,LL Road Tire
+217,31,"Sport-100 Helmet, Black",13.0863,Black,34.99,,20.994,Sport-100
+584,2,"Road-750 Black, 58",343.6496,Black,539.99,58,323.994,Road-750
+597,1,"Mountain-500 Black, 42",294.5797,Black,539.99,42,323.994,Mountain-500
+222,31,"Sport-100 Helmet, Blue",13.0863,Blue,34.99,,20.994,Sport-100
+579,3,"Touring-2000 Blue, 54",755.1508,Blue,1214.85,54,728.91,Touring-2000
+368,2,"Road-250 Red, 44",1518.7864,Red,2443.35,44,1466.01,Road-250
+339,2,"Road-650 Black, 44",486.7066,Black,782.99,44,469.794,Road-650
+389,2,"Road-550-W Yellow, 48",605.6492,Yellow,1000.4375,48,600.2625,Road-550-W
+377,2,"Road-250 Black, 52",1320.6838,Black,2181.5625,52,1308.9375,Road-250
+605,2,"Road-750 Black, 48",343.6496,Black,539.99,48,323.994,Road-750
+363,1,"Mountain-200 Black, 46",1251.9813,Black,2294.99,46,1376.994,Mountain-200
+463,20,"Half-Finger Gloves, S",9.1593,Black,24.49,S,14.694,Half-Finger Gloves
+333,2,"Road-650 Black, 58",486.7066,Black,782.99,58,469.794,Road-650
+359,1,"Mountain-200 Black, 38",1251.9813,Black,2294.99,38,1376.994,Mountain-200
+472,25,"Classic Vest, M",23.749,Blue,63.5,M,38.1,Classic Vest
+604,2,"Road-750 Black, 44",343.6496,Black,539.99,44,323.994,Road-750
+573,3,"Touring-1000 Blue, 46",1481.9379,Blue,2384.07,46,1430.442,Touring-1000
+563,3,"Touring-1000 Yellow, 54",1481.9379,Yellow,2384.07,54,1430.442,Touring-1000
+541,37,Touring Tire,10.8423,NA,28.99,,17.394,Touring Tire
+475,22,"Women's Mountain Shorts, M",26.1763,Black,69.99,M,41.994,Women's Mountain Shorts
+562,3,"Touring-1000 Yellow, 50",1481.9379,Yellow,2384.07,50,1430.442,Touring-1000
+488,21,"Short-Sleeve Classic Jersey, S",41.5723,Yellow,53.99,S,32.394,Short-Sleeve Classic Jersey
+374,2,"Road-250 Black, 44",1554.9479,Black,2443.35,44,1466.01,Road-250
+473,25,"Classic Vest, L",23.749,Blue,63.5,L,38.1,Classic Vest
+471,25,"Classic Vest, S",23.749,Blue,63.5,S,38.1,Classic Vest
+386,2,"Road-550-W Yellow, 42",713.0798,Yellow,1120.49,42,672.294,Road-550-W
+606,2,"Road-750 Black, 52",343.6496,Black,539.99,52,323.994,Road-750
+231,21,"Long-Sleeve Logo Jersey, M",38.4923,Multi,49.99,M,29.994,Long-Sleeve Logo Jersey
+489,21,"Short-Sleeve Classic Jersey, M",41.5723,Yellow,53.99,M,32.394,Short-Sleeve Classic Jersey
+576,3,"Touring-1000 Blue, 60",1481.9379,Blue,2384.07,60,1430.442,Touring-1000
+591,1,"Mountain-500 Silver, 40",308.2179,Silver,564.99,40,338.994,Mountain-500
+491,21,"Short-Sleeve Classic Jersey, XL",41.5723,Yellow,53.99,XL,32.394,Short-Sleeve Classic Jersey
+483,26,Hitch Rack - 4-Bike,44.88,NA,120,,72,Hitch Rack - 4-Bike
+476,22,"Women's Mountain Shorts, L",26.1763,Black,69.99,L,41.994,Women's Mountain Shorts
+490,21,"Short-Sleeve Classic Jersey, L",41.5723,Yellow,53.99,L,32.394,Short-Sleeve Classic Jersey
+598,1,"Mountain-500 Black, 44",294.5797,Black,539.99,44,323.994,Mountain-500
+587,1,"Mountain-400-W Silver, 38",419.7784,Silver,769.49,38,461.694,Mountain-400-W
+388,2,"Road-550-W Yellow, 44",713.0798,Yellow,1120.49,44,672.294,Road-550-W
+376,2,"Road-250 Black, 48",1554.9479,Black,2443.35,48,1466.01,Road-250
+481,23,"Racing Socks, M",3.3623,White,8.99,M,5.394,Racing Socks
+361,1,"Mountain-200 Black, 42",1251.9813,Black,2294.99,42,1376.994,Mountain-200
+561,3,"Touring-1000 Yellow, 46",1481.9379,Yellow,2384.07,46,1430.442,Touring-1000
+228,21,"Long-Sleeve Logo Jersey, S",38.4923,Multi,49.99,S,29.994,Long-Sleeve Logo Jersey
+564,3,"Touring-1000 Yellow, 60",1481.9379,Yellow,2384.07,60,1430.442,Touring-1000
+353,1,"Mountain-200 Silver, 38",1265.6195,Silver,2319.99,38,1391.994,Mountain-200
+596,1,"Mountain-500 Black, 40",294.5797,Black,539.99,40,323.994,Mountain-500
+357,1,"Mountain-200 Silver, 46",1265.6195,Silver,2319.99,46,1391.994,Mountain-200
+595,1,"Mountain-500 Silver, 52",308.2179,Silver,564.99,52,338.994,Mountain-500
+577,3,"Touring-2000 Blue, 46",755.1508,Blue,1214.85,46,728.91,Touring-2000
+355,1,"Mountain-200 Silver, 42",1265.6195,Silver,2319.99,42,1391.994,Mountain-200
+382,2,"Road-550-W Yellow, 38",713.0798,Yellow,1120.49,38,672.294,Road-550-W
+569,3,"Touring-3000 Yellow, 50",461.4448,Yellow,742.35,50,445.41,Touring-3000
+565,3,"Touring-3000 Blue, 54",461.4448,Blue,742.35,54,445.41,Touring-3000
+590,1,"Mountain-400-W Silver, 46",419.7784,Silver,769.49,46,461.694,Mountain-400-W
+486,27,All-Purpose Bike Stand,59.466,NA,159,,95.4,All-Purpose Bike Stand
+592,1,"Mountain-500 Silver, 42",308.2179,Silver,564.99,42,338.994,Mountain-500
+588,1,"Mountain-400-W Silver, 40",419.7784,Silver,769.49,40,461.694,Mountain-400-W
+575,3,"Touring-1000 Blue, 54",1481.9379,Blue,2384.07,54,1430.442,Touring-1000
+599,1,"Mountain-500 Black, 48",294.5797,Black,539.99,48,323.994,Mountain-500
+390,2,"Road-550-W Yellow, 48",713.0798,Yellow,1120.49,48,672.294,Road-550-W
+583,2,"Road-350-W Yellow, 48",1082.51,Yellow,1700.99,48,1020.594,Road-350-W
+567,3,"Touring-3000 Blue, 62",461.4448,Blue,742.35,62,445.41,Touring-3000
+580,2,"Road-350-W Yellow, 40",1082.51,Yellow,1700.99,40,1020.594,Road-350-W
+384,2,"Road-550-W Yellow, 40",713.0798,Yellow,1120.49,40,672.294,Road-550-W
+593,1,"Mountain-500 Silver, 44",308.2179,Silver,564.99,44,338.994,Mountain-500
+566,3,"Touring-3000 Blue, 58",461.4448,Blue,742.35,58,445.41,Touring-3000
+571,3,"Touring-3000 Yellow, 58",461.4448,Yellow,742.35,58,445.41,Touring-3000
+585,3,"Touring-3000 Blue, 44",461.4448,Blue,742.35,44,445.41,Touring-3000
+380,2,"Road-250 Black, 58",1554.9479,Black,2443.35,58,1466.01,Road-250
+323,2,"Road-650 Red, 60",486.7066,Red,782.99,60,469.794,Road-650
+329,2,"Road-650 Red, 48",486.7066,Red,782.99,48,469.794,Road-650
+385,2,"Road-550-W Yellow, 42",605.6492,Yellow,1000.4375,42,600.2625,Road-550-W
+327,2,"Road-650 Red, 44",486.7066,Red,782.99,44,469.794,Road-650
+352,1,"Mountain-200 Silver, 38",1117.8559,Silver,2071.4196,38,1242.8518,Mountain-200
+572,3,"Touring-3000 Yellow, 62",461.4448,Yellow,742.35,62,445.41,Touring-3000
+358,1,"Mountain-200 Black, 38",1105.81,Black,2049.0982,38,1229.4589,Mountain-200
+362,1,"Mountain-200 Black, 46",1105.81,Black,2049.0982,46,1229.4589,Mountain-200
+589,1,"Mountain-400-W Silver, 42",419.7784,Silver,769.49,42,461.694,Mountain-400-W
+586,3,"Touring-3000 Blue, 50",461.4448,Blue,742.35,50,445.41,Touring-3000
+378,2,"Road-250 Black, 52",1554.9479,Black,2443.35,52,1466.01,Road-250
+351,1,"Mountain-100 Black, 48",1898.0944,Black,3374.99,48,2024.994,Mountain-100
+343,2,"Road-650 Black, 52",486.7066,Black,782.99,52,469.794,Road-650
+373,2,"Road-250 Black, 44",1320.6838,Black,2181.5625,44,1308.9375,Road-250
+360,1,"Mountain-200 Black, 42",1105.81,Black,2049.0982,42,1229.4589,Mountain-200
+354,1,"Mountain-200 Silver, 42",1117.8559,Silver,2071.4196,42,1242.8518,Mountain-200
+321,2,"Road-650 Red, 58",486.7066,Red,782.99,58,469.794,Road-650
+335,2,"Road-650 Black, 60",486.7066,Black,782.99,60,469.794,Road-650
+570,3,"Touring-3000 Yellow, 54",461.4448,Yellow,742.35,54,445.41,Touring-3000
+594,1,"Mountain-500 Silver, 48",308.2179,Silver,564.99,48,338.994,Mountain-500
+371,2,"Road-250 Red, 58",1320.6838,Red,2181.5625,58,1308.9375,Road-250
+375,2,"Road-250 Black, 48",1320.6838,Black,2181.5625,48,1308.9375,Road-250
+341,2,"Road-650 Black, 48",486.7066,Black,782.99,48,469.794,Road-650
+370,2,"Road-250 Red, 52",1518.7864,Red,2443.35,52,1466.01,Road-250
+369,2,"Road-250 Red, 48",1518.7864,Red,2443.35,48,1466.01,Road-250
+381,2,"Road-550-W Yellow, 38",605.6492,Yellow,1000.4375,38,600.2625,Road-550-W
+337,2,"Road-650 Black, 62",486.7066,Black,782.99,62,469.794,Road-650
+349,1,"Mountain-100 Black, 42",1898.0944,Black,3374.99,42,2024.994,Mountain-100
+328,2,"Road-650 Red, 48",413.1463,Red,699.0982,48,419.4589,Road-650
+356,1,"Mountain-200 Silver, 46",1117.8559,Silver,2071.4196,46,1242.8518,Mountain-200
+387,2,"Road-550-W Yellow, 44",605.6492,Yellow,1000.4375,44,600.2625,Road-550-W
+568,3,"Touring-3000 Yellow, 44",461.4448,Yellow,742.35,44,445.41,Touring-3000
+320,2,"Road-650 Red, 58",413.1463,Red,699.0982,58,419.4589,Road-650
+322,2,"Road-650 Red, 60",413.1463,Red,699.0982,60,419.4589,Road-650
+345,1,"Mountain-100 Silver, 42",1912.1544,Silver,3399.99,42,2039.994,Mountain-100
+331,2,"Road-650 Red, 52",486.7066,Red,782.99,52,469.794,Road-650
+346,1,"Mountain-100 Silver, 44",1912.1544,Silver,3399.99,44,2039.994,Mountain-100
+379,2,"Road-250 Black, 58",1320.6838,Black,2181.5625,58,1308.9375,Road-250
+344,1,"Mountain-100 Silver, 38",1912.1544,Silver,3399.99,38,2039.994,Mountain-100
+342,2,"Road-650 Black, 52",413.1463,Black,699.0982,52,419.4589,Road-650
+325,2,"Road-650 Red, 62",486.7066,Red,782.99,62,469.794,Road-650
+338,2,"Road-650 Black, 44",413.1463,Black,699.0982,44,419.4589,Road-650
+383,2,"Road-550-W Yellow, 40",605.6492,Yellow,1000.4375,40,600.2625,Road-550-W
+324,2,"Road-650 Red, 62",413.1463,Red,699.0982,62,419.4589,Road-650
+330,2,"Road-650 Red, 52",413.1463,Red,699.0982,52,419.4589,Road-650
+372,2,"Road-250 Red, 58",1554.9479,Red,2443.35,58,1466.01,Road-250
+332,2,"Road-650 Black, 58",413.1463,Black,699.0982,58,419.4589,Road-650
+340,2,"Road-650 Black, 48",413.1463,Black,699.0982,48,419.4589,Road-650
+326,2,"Road-650 Red, 44",413.1463,Red,699.0982,44,419.4589,Road-650
+336,2,"Road-650 Black, 62",413.1463,Black,699.0982,62,419.4589,Road-650
+347,1,"Mountain-100 Silver, 48",1912.1544,Silver,3399.99,48,2039.994,Mountain-100

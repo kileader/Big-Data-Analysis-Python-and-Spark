@@ -1,0 +1,179 @@
+GeographyKey,City,StateProvinceCode,ProvinceName,CountryRegionCode,CountryName,PostalCode,SalesTerritoryKey
+53,Metchosin,BC,British Columbia,CA,Canada,V9,6
+62,Royal Oak,BC,British Columbia,CA,Canada,V8X,6
+57,Newton,BC,British Columbia,CA,Canada,V2M1P1,6
+52,Langley,BC,British Columbia,CA,Canada,V3A 4R2,6
+41,Calgary,AB,Alberta,CA,Canada,T2P 2G8,6
+54,N. Vancouver,BC,British Columbia,CA,Canada,V7L 4J4,6
+58,Newton,BC,British Columbia,CA,Canada,V2M1S6,6
+43,Burnaby,BC,British Columbia,CA,Canada,V3J 6Z3,6
+59,Oak Bay,BC,British Columbia,CA,Canada,V8P,6
+68,Vancouver,BC,British Columbia,CA,Canada,V7L 4J4,6
+60,Port Hammond,BC,British Columbia,CA,Canada,V6B 3P7,6
+66,Sooke,BC,British Columbia,CA,Canada,V0,6
+56,Newton,BC,British Columbia,CA,Canada,V2M1N7,6
+69,Victoria,BC,British Columbia,CA,Canada,V8V,6
+50,Haney,BC,British Columbia,CA,Canada,V2W 1W2,6
+64,Shawnee,BC,British Columbia,CA,Canada,V9B 2C3,6
+632,Port Orchard,WA,Washington,US,United States,98366,1
+543,Lebanon,OR,Oregon,US,United States,97355,1
+614,Edmonds,WA,Washington,US,United States,98020,1
+642,Tacoma,WA,Washington,US,United States,98403,1
+547,Portland,OR,Oregon,US,United States,97205,1
+637,Seattle,WA,Washington,US,United States,98104,1
+638,Sedro Woolley,WA,Washington,US,United States,98284,1
+552,W. Linn,OR,Oregon,US,United States,97068,1
+542,Lake Oswego,OR,Oregon,US,United States,97034,1
+633,Puyallup,WA,Washington,US,United States,98371,1
+536,Beaverton,OR,Oregon,US,United States,97005,1
+627,Marysville,WA,Washington,US,United States,98270,1
+631,Olympia,WA,Washington,US,United States,98501,1
+539,Corvallis,OR,Oregon,US,United States,97330,1
+618,Issaquah,WA,Washington,US,United States,98027,1
+644,Walla Walla,WA,Washington,US,United States,99362,1
+548,Salem,OR,Oregon,US,United States,97301,1
+607,Ballard,WA,Washington,US,United States,98107,1
+612,Burien,WA,Washington,US,United States,98168,1
+545,Milwaukie,OR,Oregon,US,United States,97222,1
+611,Bremerton,WA,Washington,US,United States,98312,1
+626,Lynnwood,WA,Washington,US,United States,98036,1
+641,Spokane,WA,Washington,US,United States,99202,1
+609,Bellingham,WA,Washington,US,United States,98225,1
+553,Woodburn,OR,Oregon,US,United States,97071,1
+302,Burlingame,CA,California,US,United States,94010,4
+310,Colma,CA,California,US,United States,94014,4
+337,Long Beach,CA,California,US,United States,90802,4
+335,Lemon Grove,CA,California,US,United States,91945,4
+311,Concord,CA,California,US,United States,94519,4
+300,Beverly Hills,CA,California,US,United States,90210,4
+338,Los Angeles,CA,California,US,United States,90012,4
+312,Coronado,CA,California,US,United States,92118,4
+374,Torrance,CA,California,US,United States,90505,4
+368,Santa Cruz,CA,California,US,United States,95062,4
+325,Glendale,CA,California,US,United States,91203,4
+359,San Diego,CA,California,US,United States,92102,4
+298,Bellflower,CA,California,US,United States,90706,4
+348,Oakland,CA,California,US,United States,94611,4
+372,Spring Valley,CA,California,US,United States,91977,4
+369,Santa Monica,CA,California,US,United States,90401,4
+299,Berkeley,CA,California,US,United States,94704,4
+355,Redwood City,CA,California,US,United States,94063,4
+314,Daly City,CA,California,US,United States,94015,4
+336,Lincoln Acres,CA,California,US,United States,91950,4
+301,Burbank,CA,California,US,United States,91502,4
+360,San Francisco,CA,California,US,United States,94109,4
+307,Chula Vista,CA,California,US,United States,91910,4
+329,Imperial Beach,CA,California,US,United States,91932,4
+315,Downey,CA,California,US,United States,90241,4
+358,San Carlos,CA,California,US,United States,94070,4
+322,Fremont,CA,California,US,United States,94536,4
+345,Newport Beach,CA,California,US,United States,92625,4
+385,Woodland Hills,CA,California,US,United States,91364,4
+383,West Covina,CA,California,US,United States,91791,4
+334,Lakewood,CA,California,US,United States,90712,4
+316,El Cajon,CA,California,US,United States,92020,4
+11,North Ryde,NSW,New South Wales,AU,Australia,2113,9
+37,Seaford,VIC,Victoria,AU,Australia,3198,9
+3,Darlinghurst,NSW,New South Wales,AU,Australia,2010,9
+25,Hervey Bay,QLD,Queensland,AU,Australia,4655,9
+8,Matraville,NSW,New South Wales,AU,Australia,2036,9
+19,Wollongong,NSW,New South Wales,AU,Australia,2500,9
+16,Springwood,NSW,New South Wales,AU,Australia,2777,9
+23,Gold Coast,QLD,Queensland,AU,Australia,4217,9
+7,Malabar,NSW,New South Wales,AU,Australia,2036,9
+12,North Sydney,NSW,New South Wales,AU,Australia,2055,9
+10,Newcastle,NSW,New South Wales,AU,Australia,2300,9
+4,Goulburn,NSW,New South Wales,AU,Australia,2580,9
+35,Melbourne,VIC,Victoria,AU,Australia,3000,9
+39,Sunbury,VIC,Victoria,AU,Australia,3429,9
+17,St. Leonards,NSW,New South Wales,AU,Australia,2065,9
+20,Brisbane,QLD,Queensland,AU,Australia,4000,9
+15,Silverwater,NSW,New South Wales,AU,Australia,2264,9
+40,Warrnambool,VIC,Victoria,AU,Australia,3280,9
+28,Cloverdale,SA,South Australia,AU,Australia,6105,9
+38,South Melbourne,VIC,Victoria,AU,Australia,3205,9
+30,Perth,SA,South Australia,AU,Australia,6006,9
+36,Melton,VIC,Victoria,AU,Australia,3337,9
+27,Townsville,QLD,Queensland,AU,Australia,4810,9
+21,Caloundra,QLD,Queensland,AU,Australia,4551,9
+22,East Brisbane,QLD,Queensland,AU,Australia,4169,9
+24,Hawthorne,QLD,Queensland,AU,Australia,4171,9
+5,Lane Cove,NSW,New South Wales,AU,Australia,1597,9
+18,Sydney,NSW,New South Wales,AU,Australia,1002,9
+9,Milsons Point,NSW,New South Wales,AU,Australia,2061,9
+13,Port Macquarie,NSW,New South Wales,AU,Australia,2444,9
+6,Lavender Bay,NSW,New South Wales,AU,Australia,2060,9
+34,Geelong,VIC,Victoria,AU,Australia,3220,9
+14,Rhodes,NSW,New South Wales,AU,Australia,2138,9
+32,Bendigo,VIC,Victoria,AU,Australia,3550,9
+2,Coffs Harbour,NSW,New South Wales,AU,Australia,2450,9
+33,Cranbourne,VIC,Victoria,AU,Australia,3977,9
+29,Findon,SA,South Australia,AU,Australia,5023,9
+51,Langford,BC,British Columbia,CA,Canada,V9,6
+49,Cliffside,BC,British Columbia,CA,Canada,V8Y 1L1,6
+70,Westminster,BC,British Columbia,CA,Canada,V3L 1E7,6
+55,Newton,BC,British Columbia,CA,Canada,V2L3W8,6
+63,Shawnee,BC,British Columbia,CA,Canada,V8Z 4N5,6
+71,Westminster,BC,British Columbia,CA,Canada,V3L 1H4,6
+65,Shawnee,BC,British Columbia,CA,Canada,V9B 5T2,6
+634,Redmond,WA,Washington,US,United States,98052,1
+616,Everett,WA,Washington,US,United States,98201,1
+648,Yakima,WA,Washington,US,United States,98901,1
+623,Kirkland,WA,Washington,US,United States,98033,1
+546,Oregon City,OR,Oregon,US,United States,97045,1
+635,Renton,WA,Washington,US,United States,98055,1
+537,Clackamas,OR,Oregon,US,United States,97015,1
+613,Chehalis,WA,Washington,US,United States,98532,1
+352,Palo Alto,CA,California,US,United States,94303,4
+331,La Jolla,CA,California,US,United States,92806,4
+339,Mill Valley,CA,California,US,United States,94941,4
+361,San Gabriel,CA,California,US,United States,91776,4
+326,Grossmont,CA,California,US,United States,91941,4
+343,National City,CA,California,US,United States,91950,4
+574,Carrollton,TX,Texas,US,United States,75006,4
+347,Novato,CA,California,US,United States,94947,4
+308,Citrus Heights,CA,California,US,United States,95610,4
+575,Cedar Park,TX,Texas,US,United States,78613,4
+309,City Of Commerce,CA,California,US,United States,90040,4
+31,Hobart,TAS,Tasmania,AU,Australia,7001,9
+26,Rockhampton,QLD,Queensland,AU,Australia,4700,9
+432,Chicago,IL,Illinois,US,United States,60610,3
+557,Bluffton,SC,South Carolina,US,United States,29910,5
+403,Clearwater,FL,Florida,US,United States,33755,5
+420,Clarkston,GA,Georgia,US,United States,30021,5
+419,Byron,GA,Georgia,US,United States,31008,5
+602,Chantilly,VA,Virginia,US,United States,20151,5
+494,Charlotte,NC,North Carolina,US,United States,28202,5
+513,Central Valley,NY,New York,US,United States,10917,2
+526,Columbus,OH,Ohio,US,United States,43215,2
+304,Canoga Park,CA,California,US,United States,91303,4
+524,Burbank,OH,Ohio,US,United States,44214,2
+654,Cheyenne,WY,Wyoming,US,United States,82001,1
+576,College Station,TX,Texas,US,United States,77840,4
+431,Carol Stream,IL,Illinois,US,United States,60188,3
+475,Branch,MN,Minnesota,US,United States,55056,3
+280,Birmingham,AL,Alabama,US,United States,35203,5
+514,Cheektowaga,NY,New York,US,United States,14227,2
+491,Billings,MT,Montana,US,United States,59101,1
+285,Chandler,AZ,Arizona,US,United States,85225,4
+303,Camarillo,CA,California,US,United States,93010,4
+488,Biloxi,MS,Mississippi,US,United States,39530,5
+594,Bountiful,UT,Utah,US,United States,84010,1
+297,Bell Gardens,CA,California,US,United States,90201,4
+296,Barstow,CA,California,US,United States,92311,4
+653,Casper,WY,Wyoming,US,United States,82601,1
+525,Cincinnati,OH,Ohio,US,United States,45202,2
+402,Bradenton,FL,Florida,US,United States,34205,5
+448,Campbellsville,KY,Kentucky,US,United States,42718,5
+515,Clay,NY,New York,US,United States,13041,2
+77,Chalk Riber,ON,Ontario,CA,Canada,K0J 1J0,6
+538,Clackamas,OR,Oregon,US,United States,97015-6403,1
+481,Branson,MO,Missouri,US,United States,65616,3
+421,Columbus,GA,Georgia,US,United States,31901,5
+610,Bothell,WA,Washington,US,United States,98011,1
+595,Cedar City,UT,Utah,US,United States,84720,1
+573,Baytown,TX,Texas,US,United States,77520,4
+306,Cerritos,CA,California,US,United States,90703,4
+305,Carson,CA,California,US,United States,90746,4
+608,Bellevue,WA,Washington,US,United States,98004,1
+453,Braintree,MA,Massachusetts,US,United States,2184,2
